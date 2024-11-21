@@ -47,9 +47,11 @@ Vite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/
 Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="15" height="15" />, 
 DaisyUI)
 
-<div id="ntfymeHeader" align="center">
-  <img src="https://github.com/user-attachments/assets/7a9b2cd9-ae55-46dc-8402-915fd49e5a0f" width="325" height="325"/>
-</div>
+<details>
+  <div id="ntfymeHeader" align="center">
+    <img src="https://github.com/user-attachments/assets/7a9b2cd9-ae55-46dc-8402-915fd49e5a0f" width="325" height="325"/>
+  </div>
+</details>
 
 ## Opensource Contributions
 - [it-tools](https://github.com/gitmotion/it-tools)
