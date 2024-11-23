@@ -55,6 +55,6 @@ DaisyUI)
 </details>
 
 ## Opensource Contributions
-- [it-tools](https://github.com/gitmotion/it-tools) by Corentinth - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
-- [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension)
+- [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
+- [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
 - and planning for more!
