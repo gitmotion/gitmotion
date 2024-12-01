@@ -33,7 +33,7 @@ Chrome <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrom
 Firefox <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="15" height="15" />
 and more! | Self-Hosted, Cloud, Privacy Focused Solutions
 
-Thank you to all those out there creating some awesome tech, you are truly inspiring 💯 because of you I'm loving this opensource and self-hosted world!
+Thank you to all those out there creating some awesome tech, you are truly inspiring 💯
 
 Follow me on my journey!
 
