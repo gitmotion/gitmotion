@@ -27,10 +27,11 @@ Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docke
 npm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="15" height="15" />,
 pnpm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="15" height="15" />,
 Cloudflare <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="15" height="15" />,
-Vercel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="15" height="15" />
-git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15" />
-Chrome <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="15" height="15" />
-Firefox <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="15" height="15" />
+Vercel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="15" height="15" />,
+Supabase/Postgres
+git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15" />,
+Chrome <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="15" height="15" />,
+Firefox <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="15" height="15" />,
 and more! | Self-Hosted, Cloud, Privacy Focused Solutions
 
 Thank you to all those out there creating some awesome tech, you are truly inspiring 💯
