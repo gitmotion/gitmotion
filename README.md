@@ -28,7 +28,7 @@ npm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-
 pnpm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="15" height="15" />,
 Cloudflare <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="15" height="15" />,
 Vercel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="15" height="15" />,
-Supabase/Postgres
+Supabase/Postgres,
 git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15" />,
 Chrome <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="15" height="15" />,
 Firefox <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="15" height="15" />,
