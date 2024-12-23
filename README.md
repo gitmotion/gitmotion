@@ -46,7 +46,7 @@ The unofficial [ntfy.sh](https://github.com/binwiederhier/ntfy) browser extensio
 (Vue3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="15" height="15" />, 
 Vite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="15" height="15" />,
 Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="15" height="15" />, 
-DaisyUI)
+DaisyUI, etc)
 
 <details>
   <summary>Preview:</summary>
