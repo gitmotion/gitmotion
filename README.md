@@ -51,7 +51,8 @@ DaisyUI, etc)
 <details>
   <summary>Preview:</summary>
   <div id="ntfymeHeader" align="center">
-    <img src="https://github.com/user-attachments/assets/7a9b2cd9-ae55-46dc-8402-915fd49e5a0f" width="325" height="325"/>
+    <img src="https://github.com/user-attachments/assets/e87e7b57-83bd-4d9a-bc2e-9a9b3395e22d" />
+
   </div>
 </details>
 
