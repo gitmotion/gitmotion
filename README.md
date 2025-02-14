@@ -49,7 +49,10 @@ Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/t
 DaisyUI, etc)
 
 <details>
-  <summary>Preview:</summary>
+  <summary>Preview / Docs:</summary>
+  
+  ## [ntfyme docs](https://ntfyme-pro.vercel.app/docs)
+  
   <div id="ntfymeHeader" align="center">
     <img src="https://github.com/user-attachments/assets/e87e7b57-83bd-4d9a-bc2e-9a9b3395e22d" />
 
