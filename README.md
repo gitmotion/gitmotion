@@ -63,3 +63,6 @@ DaisyUI, etc)
 - [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
 - [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
 - and planning for more!
+
+## Support
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/gitmotion)
