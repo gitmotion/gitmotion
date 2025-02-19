@@ -65,4 +65,6 @@ DaisyUI, etc)
 - and planning for more!
 
 ## Support
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/gitmotion)
+<a href="https://www.buymeacoffee.com/gitmotion" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy me a coffee" />
+</a>
