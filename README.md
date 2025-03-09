@@ -66,7 +66,7 @@ DaisyUI, etc)
 - [dumbpad](https://github.com/DumbWareio/DumbPad) by [DumbWareio](https://github.com/DumbWareio)
 - and planning for more!
 
-## Organization
+## Organizations
 [DumbWareio](https://github.com/DumbWareio)
 
 ## Support me ☕
