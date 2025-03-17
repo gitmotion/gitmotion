@@ -52,7 +52,7 @@ DaisyUI, etc)
   <summary>Preview / Docs:</summary>
   
   ## [ntfyme docs](https://ntfyme-pro.vercel.app/docs)
-  - basic docs for now
+  - basic documentation/ for now - full docs coming soon...
   
   <div id="ntfymeHeader" align="center">
     <img src="https://github.com/user-attachments/assets/e87e7b57-83bd-4d9a-bc2e-9a9b3395e22d" />
