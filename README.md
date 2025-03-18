@@ -65,6 +65,7 @@ DaisyUI, etc)
 - [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
 - [dumbdrop](https://github.com/DumbWareio/DumbDrop) by [DumbWareio](https://github.com/DumbWareio)
 - [dumbpad](https://github.com/DumbWareio/DumbPad) by [DumbWareio](https://github.com/DumbWareio)
+- [dumbdo](https://github.com/DumbWareio/DumbDo) by [DumbWareio](https://github.com/DumbWareio)
 - and planning for more!
 
 ## Organizations
