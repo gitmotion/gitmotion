@@ -69,6 +69,7 @@ DaisyUI, etc)
   * [dumbdrop](https://github.com/DumbWareio/DumbDrop)
   * [dumbpad](https://github.com/DumbWareio/DumbPad)
   * [dumbdo](https://github.com/DumbWareio/DumbDo)
+  * [dumbbudget](https://github.com/DumbWareio/DumbBudget)
 </details>
 - and planning for more!
 
