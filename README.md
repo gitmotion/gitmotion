@@ -61,9 +61,7 @@ DaisyUI, etc)
 </details>
 
 ## Opensource Contributions
-- [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
-- [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
-- <details>
+<details>
   <summary><a href="https://github.com/DumbWareio" target="_blank">Dumbwareio</a></summary>
   
   * [dumbdrop](https://github.com/DumbWareio/DumbDrop)
@@ -71,6 +69,9 @@ DaisyUI, etc)
   * [dumbdo](https://github.com/DumbWareio/DumbDo)
   * [dumbbudget](https://github.com/DumbWareio/DumbBudget)
 </details>
+
+- [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
+- [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
 - and planning for more!
 
 ## Organizations
