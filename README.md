@@ -68,6 +68,7 @@ DaisyUI, etc)
   * [dumbpad](https://github.com/DumbWareio/DumbPad)
   * [dumbdo](https://github.com/DumbWareio/DumbDo)
   * [dumbbudget](https://github.com/DumbWareio/DumbBudget)
+  * [dumbwhois](https://github.com/DumbWareio/DumbWhoIs)
 </details>
 
 - [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
