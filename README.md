@@ -70,7 +70,7 @@ DaisyUI, etc)
   * [dumbbudget](https://github.com/DumbWareio/DumbBudget)
   * [dumbwhois](https://github.com/DumbWareio/DumbWhoIs)
   <!-- * [dumbkan](https://github.com/DumbWareio/DumbKan) -->
-  <!-- * [dumbterm] -->
+  <!-- * [dumbterm]() -->
 </details>
 
 - [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
