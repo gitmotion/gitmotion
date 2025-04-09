@@ -76,21 +76,16 @@ DaisyUI, etc)
 </details>
 
 ## Opensource Contributions
-<details>
-  <summary><a href="https://github.com/DumbWareio" target="_blank">Dumbwareio</a></summary>
-  
-  * [dumbdrop](https://github.com/DumbWareio/DumbDrop)
-  * [dumbpad](https://github.com/DumbWareio/DumbPad)
-  * [dumbdo](https://github.com/DumbWareio/DumbDo)
-  * [dumbbudget](https://github.com/DumbWareio/DumbBudget)
-  * [dumbwhois](https://github.com/DumbWareio/DumbWhoIs)
-  <!-- * [dumbkan](https://github.com/DumbWareio/DumbKan) -->
-  <!-- * [dumbterm]() -->
-</details>
 
-- [it-tools](https://github.com/gitmotion/it-tools) by CorentinTh - checkout my added tools at: [gitmotion-it-tools-beta.vercel.app](https://gitmotion-it-tools-beta.vercel.app/)
-- [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) by TheDuffman85
-- and planning for more!
+| Repository                                                   | Owner                                                      | Description                          |
+|--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
+| [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [DumbBudget](https://github.com/DumbWareio/DumbBudget)       | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)         | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [it-tools](https://github.com/gitmotion/it-tools)            | [CorentinTh](https://github.com/CorentinTh)               | Added tools at: [Beta version](https://gitmotion-it-tools-beta.vercel.app/) |
+| [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) | [TheDuffman85](https://github.com/TheDuffman85)           | Browser Extension for ntfy.sh |
 
 ## Organizations
 [DumbWareio](https://github.com/DumbWareio)
