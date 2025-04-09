@@ -79,6 +79,7 @@ DaisyUI, etc)
 
 | Repository                                                   | Owner                                                      | Description                          |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
+| [DumbTerm](https://github.com/gitmotion/DumbTerm)            | [gitmotion](https://github.com/gitmotion) w/ [DumbWareio](https://github.com/DumbWareio)               | Set to release soon! |
 | [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
