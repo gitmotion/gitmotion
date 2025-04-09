@@ -40,6 +40,21 @@ Follow me on my journey! 🙏🏻
 
 ## Current Projects
 
+#### [DumbTerm](https://github.com/gitmotion/DumbTerm)
+A stupidly simple web-based terminal emulator, with common tools and Starship enabled! 🚀
+- Set to release under Dumbwareio
+
+<details>
+  <summary>Preview:</summary>
+  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/d7847f80-a8fc-428c-9515-2c299ebd8f67" />
+
+  </div>
+</details>
+
+#
+
 #### ![ntfyme_16](https://github.com/user-attachments/assets/2e7d3239-2d0a-4919-a5c5-8b2790886fd5) ntfyme (under active development)
 
 The unofficial [ntfy.sh](https://github.com/binwiederhier/ntfy) browser extension for receiving & sending ntfy notifications in real-time using SSE and http connections. Feature packed to include virtually almost every option available for sending and receiving ntfy.sh notifications (tags, titles, delay, click urls, icon urls, file urls, local file attachments, markdown formatting, caching options, and more). Some additional features include an all-inclusive list of themes to make your ntfy extension yours, AES encryption and compression for storing your ntfy server credentials, user settings, and messages in the browser.storage.sync API, receiving from and sending to multiple topics at the same time, configuring message defaults including adding the current tab's url if you want, and more. Planning to release to chrome and firefox extension stores with free or subscription plans at beginning to mid 2025
