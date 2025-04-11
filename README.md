@@ -40,6 +40,13 @@ Follow me on my journey! 🙏🏻
 
 ## Current Projects
 
+#### [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)
+- An ntfy MCP server for sending ntfy notifications to your self-hosted ntfy server 📤
+- Supports token auth, title, message, priority, tags, and more to come.
+- Use with npx/npm or docker!
+
+#
+
 #### [DumbTerm](https://github.com/gitmotion/DumbTerm)
 A stupidly simple web-based terminal emulator, with common tools and Starship enabled! 🚀
 - Set to release under Dumbwareio
@@ -77,9 +84,10 @@ DaisyUI, etc)
 
 ## Opensource Contributions
 
-| Repository                                                   | Owner                                                      | Description                          |
+| Repository                                                   | Owner                                                      | Description                         |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
-| [DumbTerm](https://github.com/gitmotion/DumbTerm)            | [gitmotion](https://github.com/gitmotion) w/ [DumbWareio](https://github.com/DumbWareio)               | Set to release soon! |
+| [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)      | [gitmotion](https://github.com/gitmotion)                 | Use with npx or docker!              |
+| [DumbTerm](https://github.com/gitmotion/DumbTerm)            | [gitmotion](https://github.com/gitmotion) w/ [DumbWareio](https://github.com/DumbWareio)         | Set to release soon! |
 | [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
