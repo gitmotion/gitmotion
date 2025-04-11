@@ -40,47 +40,11 @@ Follow me on my journey! 🙏🏻
 
 ## Current Projects
 
-#### [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)
-- An ntfy MCP server for sending ntfy notifications to your self-hosted ntfy server 📤
-- Supports token auth, title, message, priority, tags, and more to come.
-- Use with npx/npm or docker!
-
-#
-
-#### [DumbTerm](https://github.com/gitmotion/DumbTerm)
-A stupidly simple web-based terminal emulator, with common tools and Starship enabled! 🚀
-- Set to release under Dumbwareio
-
-<details>
-  <summary>Preview:</summary>
-  
-  <div align="center">
-    <img src="https://github.com/user-attachments/assets/d7847f80-a8fc-428c-9515-2c299ebd8f67" />
-
-  </div>
-</details>
-
-#
-
-#### ![ntfyme_16](https://github.com/user-attachments/assets/2e7d3239-2d0a-4919-a5c5-8b2790886fd5) ntfyme (under active development)
-
-The unofficial [ntfy.sh](https://github.com/binwiederhier/ntfy) browser extension for receiving & sending ntfy notifications in real-time using SSE and http connections. Feature packed to include virtually almost every option available for sending and receiving ntfy.sh notifications (tags, titles, delay, click urls, icon urls, file urls, local file attachments, markdown formatting, caching options, and more). Some additional features include an all-inclusive list of themes to make your ntfy extension yours, AES encryption and compression for storing your ntfy server credentials, user settings, and messages in the browser.storage.sync API, receiving from and sending to multiple topics at the same time, configuring message defaults including adding the current tab's url if you want, and more. Planning to release to chrome and firefox extension stores with free or subscription plans at beginning to mid 2025
-(Vue3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="15" height="15" />, 
-Vite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="15" height="15" />,
-Typescript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="15" height="15" />, 
-DaisyUI, etc)
-
-<details>
-  <summary>Preview / Docs:</summary>
-  
-  ## [ntfyme docs](https://ntfyme-pro.vercel.app/docs)
-  - basic documentation/ for now - full docs coming soon
-  
-  <div id="ntfymeHeader" align="center">
-    <img src="https://github.com/user-attachments/assets/e87e7b57-83bd-4d9a-bc2e-9a9b3395e22d" />
-
-  </div>
-</details>
+| Project       | Details                                                                                       | Preview                                                                                                                           |
+|---------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp) | An ntfy MCP server for sending notifications to your self-hosted ntfy server 📤. Supports token auth, title, message, priority, tags, and more. Use via npx/npm or Docker! | -                                                                 |
+| [DumbTerm](https://github.com/gitmotion/DumbTerm) | A simple web-based terminal emulator with common tools and Starship enabled 🚀. Planned release under Dumbwareio.                | <div align="center"><img src="https://github.com/user-attachments/assets/d7847f80-a8fc-428c-9515-2c299ebd8f67" /></div>           |
+| ![ntfyme_16](https://github.com/user-attachments/assets/2e7d3239-2d0a-4919-a5c5-8b2790886fd5) ntfyme (under active development) | An unofficial [ntfy.sh](https://github.com/binwiederhier/ntfy) browser extension for real-time notifications via SSE and HTTP connections. Packed with features like tags, titles, markdown support, AES encryption, themes, and multi-topic management. Planned release on Chrome and Firefox extension stores in 2025 with free and subscription plans. Built with Vue3, Vite, TypeScript, and DaisyUI. | [Docs](https://ntfyme-pro.vercel.app/docs)<br><div id="ntfymeHeader" align="center"><img src="https://github.com/user-attachments/assets/e87e7b57-83bd-4d9a-bc2e-9a9b3395e22d" /></div> |
 
 ## Opensource Contributions
 
