@@ -38,6 +38,8 @@ Thank you to all those out there creating some awesome tech 💯
 
 Follow me on my journey 🙏🏻
 
+![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
+
 ## Current Projects
 
 | Project       | Details                                                                                       | Preview                                                                                                                           |
