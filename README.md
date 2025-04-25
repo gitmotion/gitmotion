@@ -36,7 +36,7 @@ and more! | Self-Hosted, Cloud, Privacy Focused Solutions
 
 Thank you to all those out there creating some awesome tech 💯
 
-Follow me on my journey!
+Follow me on my journey 🙏🏻
 
 ## Current Projects
 
