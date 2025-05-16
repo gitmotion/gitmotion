@@ -52,7 +52,7 @@ Follow me on my journey!
 
 | Repository                                                   | Owner                                                      | Description                         |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
-| [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)      | [gitmotion](https://github.com/gitmotion)                 | Use with npx or docker!              |
+| [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)      | [gitmotion](https://github.com/gitmotion)                 | Featured on [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)              |
 | [DumbTerm](https://github.com/dumbwareio/DumbTerm)            | [gitmotion](https://github.com/gitmotion) w/ [DumbWareio](https://github.com/DumbWareio)         | Released 05/01/2025 |
 | [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
