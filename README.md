@@ -43,6 +43,7 @@ Follow me on my journey!
 
 | Project       | Details                                                                                       | Preview                                                                                                                           |
 |---------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| New Dumbwareio App | in the works! | Coming soon  |
 | ntfyme-webhook-cf-worker | An ntfy webhook worker to use with CF Workers | Coming soon  |
 | [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp) | An ntfy MCP server for sending notifications to your self-hosted ntfy server 📤. Supports token auth, title, message, priority, tags, and more. Use via npx/npm or Docker! Featured on [ntfy.sh](https://docs.ntfy.sh/integrations/) & [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)  | <a href="https://glama.ai/mcp/servers/@gitmotion/ntfy-me-mcp"><img src="https://glama.ai/mcp/servers/@gitmotion/ntfy-me-mcp/badge" /></a>  |
 | [DumbTerm](https://github.com/dumbwareio/DumbTerm) | A simple web-based terminal emulator with common tools and Starship enabled 🚀. Released under Dumbwareio.                | <div align="center"><img src="https://github.com/user-attachments/assets/d7847f80-a8fc-428c-9515-2c299ebd8f67" /></div>           |
