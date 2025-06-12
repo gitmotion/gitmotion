@@ -1,4 +1,6 @@
-<a href="https://dumbassets.dumbware.io/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/demo-site?label=dumbassets"></a>
+<a href="https://dumbassets.dumbware.io/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/demo-site?label=dumbassets">
+</a>
 
 <!--
 **gitmotion/gitmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
