@@ -1,43 +1,58 @@
-<!--
-**gitmotion/gitmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hey there ✌️ 
-🚀 Full-Stack Engineer developing with .NET <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="15" height="15"/>,
-C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="15" height="15"/>,
-Vue <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="15" height="15" />,
-React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="15" height="15" />,
-Vite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="15" height="15" />,
-JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15" height="15" />,
-HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="15" height="15" />,
-CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="15" height="15" />,
-Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="15" height="15" />,
-SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15" />,
-Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="15" height="15" />,
-npm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="15" height="15" />,
-pnpm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="15" height="15" />,
-Cloudflare <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="15" height="15" />,
-Vercel <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" width="15" height="15" />,
-Supabase/Postgres,
-git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15" />,
-Chrome <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="15" height="15" />,
-Firefox <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="15" height="15" />,
-and more! | Self-Hosted, Cloud, Privacy Focused Solutions
+Full stack engineer developing self-hosted, privacy focused, and opensource tools
 
 Thank you to all those out there creating some awesome tech 💯
 
 Follow me on my journey! 🙌🏼
 
 ![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
+
+### 🚀 The Stack
+
+***Languages & Frameworks:***
+
+![.NET](https://img.shields.io/badge/Backend-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Framework-Next-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/BuildTool-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+***UI & Component Libraries:***
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5604E6?style=flat&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+
+***Databases & Tools:***
+
+![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Docker](https://img.shields.io/badge/Containerization-docker-2496ED?style=flat&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/PackageMgr-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/PackageMgr-pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Git](https://img.shields.io/badge/VersionControl-Git-F05032?style=flat&logo=git&logoColor=white)
+
+***Platforms & Solutions:***
+
+![Cloudflare](https://img.shields.io/badge/Platform-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Coolify](https://img.shields.io/badge/Self--Hosting-Coolify-2C5234?style=flat&logo=docker&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Self--Hosting-Dokploy-007ACC?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Platform-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase/Postgres](https://img.shields.io/badge/Database-Supabase%2FPostgres-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Self-Hosted Solutions](https://img.shields.io/badge/Solutions-Self--Hosted-darkgreen)
+![Cloud Solutions](https://img.shields.io/badge/Solutions-Cloud-blue)
+![Privacy Focused Solutions](https://img.shields.io/badge/Solutions-Privacy%20Focused-purple)
+
+***Browsers:***
+
+![Chrome](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Firefox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)
+
+---
 
 ## Current Projects
 
