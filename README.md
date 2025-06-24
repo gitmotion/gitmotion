@@ -14,8 +14,9 @@ Thank you to all those out there creating some awesome tech 💯
 
 ![.NET](https://img.shields.io/badge/Backend-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Framework-Next-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Framework-Nextjs-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/BuildTool-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,6 +30,7 @@ Thank you to all those out there creating some awesome tech 💯
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5604E6?style=flat&logo=daisyui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Tabler Icons](https://img.shields.io/badge/Icons-Tabler_Icons-206BC4?style=flat&logo=tablericons&logoColor=white)
 
 ***Databases & Tools:***
 
