@@ -1,7 +1,4 @@
-# Hey there ✌️ 
-![Self-Hosted Solutions](https://img.shields.io/badge/Solutions-Self--Hosted-darkgreen)
-![Cloud Solutions](https://img.shields.io/badge/Solutions-Cloud-blue)
-![Privacy Focused Solutions](https://img.shields.io/badge/Solutions-Privacy%20Focused-purple)
+# Hey there ✌️ ![Self-Hosted Solutions](https://img.shields.io/badge/Solutions-Self--Hosted-darkgreen) ![Cloud Solutions](https://img.shields.io/badge/Solutions-Cloud-blue) ![Privacy Focused Solutions](https://img.shields.io/badge/Solutions-Privacy%20Focused-purple)
 
 Full stack engineer developing self-hosted, privacy focused, and opensource tools. Follow me on my journey! 🙌🏼
 
