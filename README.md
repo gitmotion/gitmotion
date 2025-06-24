@@ -1,4 +1,8 @@
-# Hey there ✌️ ![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
+# Hey there ✌️ 
+![Self-Hosted Solutions](https://img.shields.io/badge/Solutions-Self--Hosted-darkgreen)
+![Cloud Solutions](https://img.shields.io/badge/Solutions-Cloud-blue)
+![Privacy Focused Solutions](https://img.shields.io/badge/Solutions-Privacy%20Focused-purple)
+
 Full stack engineer developing self-hosted, privacy focused, and opensource tools. Follow me on my journey! 🙌🏼
 
 Thank you to all those out there creating some awesome tech 💯
@@ -40,15 +44,13 @@ Thank you to all those out there creating some awesome tech 💯
 ![Dokploy](https://img.shields.io/badge/Self--Hosting-Dokploy-007ACC?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Platform-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Supabase/Postgres](https://img.shields.io/badge/Database-Supabase%2FPostgres-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Self-Hosted Solutions](https://img.shields.io/badge/Solutions-Self--Hosted-darkgreen)
-![Cloud Solutions](https://img.shields.io/badge/Solutions-Cloud-blue)
-![Privacy Focused Solutions](https://img.shields.io/badge/Solutions-Privacy%20Focused-purple)
 
 ***Browsers:***
 
 ![Chrome](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
 ---
 
 ## Current Projects
