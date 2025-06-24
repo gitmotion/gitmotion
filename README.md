@@ -19,6 +19,7 @@ Thank you to all those out there creating some awesome tech 💯
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/BuildTool-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
