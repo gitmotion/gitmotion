@@ -54,8 +54,6 @@ Follow me on my journey! 🙌🏼
 
 | Repository                                                   | Owner                                                      | Description                         |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
-| [ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp)      | [gitmotion](https://github.com/gitmotion)                 | Featured on [ntfy.sh](https://docs.ntfy.sh/integrations/) & [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)              |
-| [DumbTerm](https://github.com/dumbwareio/DumbTerm)            | [gitmotion](https://github.com/gitmotion) w/ [DumbWareio](https://github.com/DumbWareio)         | Released 05/01/2025 |
 | [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
