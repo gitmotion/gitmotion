@@ -1,11 +1,8 @@
-# Hey there ✌️ 
-Full stack engineer developing self-hosted, privacy focused, and opensource tools
+# Hey there ✌️ ![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
+Full stack engineer developing self-hosted, privacy focused, and opensource tools. Follow me on my journey! 🙌🏼
 
 Thank you to all those out there creating some awesome tech 💯
 
-Follow me on my journey! 🙌🏼
-
-![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
 
 ### 🚀 The Stack
 
