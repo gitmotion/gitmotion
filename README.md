@@ -3,7 +3,6 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 
 Thank you to all those out there creating some awesome tech 💯
 
-
 ### 🚀 The Stack
 
 ***Languages & Frameworks:***
