@@ -5,6 +5,8 @@ Thank you to all those out there creating some awesome tech 💯
 
 ### 🚀 The Stack
 
+<div align=center>
+
 ***Languages & Frameworks:***
 
 ![.NET](https://img.shields.io/badge/Backend-.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -36,7 +38,7 @@ Thank you to all those out there creating some awesome tech 💯
 ![Git](https://img.shields.io/badge/VersionControl-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ***Platforms & Solutions:***
-
+  
 ![Cloudflare](https://img.shields.io/badge/Platform-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Self--Hosting-Coolify-2C5234?style=flat&logo=docker&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Self--Hosting-Dokploy-007ACC?style=flat&logo=docker&logoColor=white)
@@ -49,6 +51,9 @@ Thank you to all those out there creating some awesome tech 💯
 ![Firefox](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=gitmotion&abbreviated=true&style=for-the-badge)
+
+</div>
+
 ---
 
 ## Current Projects
