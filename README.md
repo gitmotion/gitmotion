@@ -72,13 +72,13 @@ Thank you to all those out there creating some awesome tech 💯
 
 | Repository                                                   | Owner                                                      | Description                         |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
-| [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
-| [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
-| [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
-| [DumbBudget](https://github.com/DumbWareio/DumbBudget)       | [DumbWareio](https://github.com/DumbWareio)               |                                      |
-| [DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)         | [DumbWareio](https://github.com/DumbWareio)               |                                      |
+| [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                                                             |
+| [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                                                             |
+| [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                                                             |
+| [DumbBudget](https://github.com/DumbWareio/DumbBudget)       | [DumbWareio](https://github.com/DumbWareio)               |                                                                             |
+| [DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)         | [DumbWareio](https://github.com/DumbWareio)               |                                                                             |
 | [it-tools](https://github.com/gitmotion/it-tools)            | [CorentinTh](https://github.com/CorentinTh)               | Added tools at: [Beta version](https://gitmotion-it-tools-beta.vercel.app/) |
-| [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) | [TheDuffman85](https://github.com/TheDuffman85) | Browser Extension for ntfy.sh |
+| [send_to_ntfy_extension](https://github.com/gitmotion/send_to_ntfy_extension) | [TheDuffman85](https://github.com/TheDuffman85) | Browser Extension for ntfy.sh                                        |
 
 ## Organizations
 [DumbWareio](https://github.com/DumbWareio)
