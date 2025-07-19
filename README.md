@@ -39,7 +39,8 @@ Thank you to all those out there creating some awesome tech 💯
 ![Git](https://img.shields.io/badge/VersionControl-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ***Platforms & Solutions:***
-  
+
+![Proxmox](https://img.shields.io/badge/Platform-Proxmox-E57200?style=flat&logo=proxmox&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Platform-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Self--Hosting-Coolify-2C5234?style=flat&logo=docker&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Self--Hosting-Dokploy-007ACC?style=flat&logo=docker&logoColor=white)
