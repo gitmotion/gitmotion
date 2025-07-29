@@ -40,12 +40,13 @@ Thank you to all those out there creating some awesome tech 💯
 
 ***Platforms & Solutions:***
 
-![Proxmox](https://img.shields.io/badge/Platform-Proxmox-E57200?style=flat&logo=proxmox&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Platform-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Self--Hosting-Coolify-2C5234?style=flat&logo=docker&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Self--Hosting-Dokploy-007ACC?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Platform-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Supabase/Postgres](https://img.shields.io/badge/Database-Supabase%2FPostgres-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Platform-Proxmox-E57200?style=flat&logo=proxmox&logoColor=white)
+![Proxmox Backup Server](https://img.shields.io/badge/Platform-Proxmox_Backup_Server-E57200?style=flat&logo=proxmox&logoColor=white)
 
 ***Browsers:***
 
