@@ -2,7 +2,7 @@
 
 <div align=center>
 
-Full stack engineer developing self-hosted, privacy focused, and opensource tools. Follow me on my journey! 🙌🏼
+Full stack engineer developing self-hosted, privacy focused, and opensource tools. Follow me on my journey 🙌🏼
 
 Thank you to all those out there creating some awesome tech 💯
 
