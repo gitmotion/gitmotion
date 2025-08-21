@@ -83,7 +83,7 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 ## Organizations
 [DumbWareio](https://github.com/DumbWareio)
 
-## Support me ☕
+## Support me ☕🙏🏻
 <a href="https://www.buymeacoffee.com/gitmotion" target="_blank" rel="noopener noreferrer">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy me a coffee" />
 </a>
