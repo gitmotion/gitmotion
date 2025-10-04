@@ -72,7 +72,6 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 
 | Repository                                                   | Owner                                                      | Description                         |
 |--------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------|
-| [spotizerr](https://github.com/spotizerr-dev/spotizerr)      | [spotizerr-dev](https://github.com/spotizerr-dev)         |                                      |
 | [DumbDrop](https://github.com/DumbWareio/DumbDrop)           | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbPad](https://github.com/DumbWareio/DumbPad)             | [DumbWareio](https://github.com/DumbWareio)               |                                      |
 | [DumbDo](https://github.com/DumbWareio/DumbDo)               | [DumbWareio](https://github.com/DumbWareio)               |                                      |
