@@ -14,6 +14,7 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Framework-Nextjs-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/Framework-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/BuildTool-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -27,10 +28,12 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5604E6?style=flat&logo=daisyui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Tabler Icons](https://img.shields.io/badge/Icons-Tabler_Icons-206BC4?style=flat&logo=tablericons&logoColor=white)
+![Lucide Icons](https://img.shields.io/badge/Icons-Lucide-F54D8A?style=flat&logo=lucide&logoColor=white)
 
 ***Databases & Tools:***
 
 ![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Containerization-docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/PackageMgr-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/PackageMgr-pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
@@ -45,6 +48,7 @@ Full stack engineer developing self-hosted, privacy focused, and opensource tool
 ![Supabase/Postgres](https://img.shields.io/badge/Database-Supabase%2FPostgres-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Platform-Proxmox-E57200?style=flat&logo=proxmox&logoColor=white)
 ![Proxmox Backup Server](https://img.shields.io/badge/Platform-Proxmox_Backup_Server-E57200?style=flat&logo=proxmox&logoColor=white)
+![Expo/EAS](https://img.shields.io/badge/Platform-Expo%2FEAS-000020?style=flat&logo=expo&logoColor=white)
 
 ***Browsers:***
 
